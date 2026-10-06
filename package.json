@@ -1,0 +1,9 @@
+{
+  "name": "bun-lockfile-v2-dependabot-repro",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Repro repo for dependabot/dependabot-core#16026 - Bun 1.4 lockfile v2 not supported by Dependabot",
+  "dependencies": {
+    "is-odd": "^3.0.1"
+  }
+}
